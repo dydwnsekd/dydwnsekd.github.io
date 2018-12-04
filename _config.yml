@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "yj.han 기술 블로그"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "yj.han"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://dydwnsekd.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "빅데이터 엔지니어"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
