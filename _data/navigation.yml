@@ -1,0 +1,5 @@
+main:
+  - title: "Posts"
+    url: /_post/
+  - title: "External Link"
+    url: https://google.com
