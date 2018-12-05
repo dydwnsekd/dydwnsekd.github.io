@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
-    url: /_post/
+  - title: "About"
+    url: /이력서/프로젝트/_post
   - title: "External Link"
     url: https://google.com
