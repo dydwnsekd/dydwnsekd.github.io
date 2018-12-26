@@ -177,28 +177,31 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
   /*background-color: #BD5D38 !important;*/
-  background-color: rgb(255,157,138) !important; /* 정열 */
-  background-color: rgb(083,173,213) !important; /* 하늘 */
-  background-color: rgb(035,098,107) !important; /* 녹 */
-  background-color: rgb(147,196,211) !important; /* 연파 */
-  background-color: rgb(238,192,108) !important; /* 노랑이 */
+  /*
+  color test
+  background-color: rgb(255,157,138) !important; 
+  background-color: rgb(083,173,213) !important;
+  background-color: rgb(035,098,107) !important;
+  background-color: rgb(147,196,211) !important;
+  background-color: rgb(238,192,108) !important;
   background-color: rgb(238,192,108) !important;
 
-  background: #1c92d2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #1c92d2;
+  background: -webkit-linear-gradient(to left, #f2fcfe, #1c92d2);
+  background: linear-gradient(to left, #f2fcfe, #1c92d2);
 
-  background: #e96443;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #904e95, #e96443); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #e96443;
+  background: -webkit-linear-gradient(to left, #904e95, #e96443);
+  background: linear-gradient(to left, #904e95, #e96443);
 
-  background: #74ebd5;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #74ebd5;
+  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);
+  background: linear-gradient(to right, #ACB6E5, #74ebd5);
+  */
 
-  background: #ff9966;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #ff5e62, #ff9966);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ff9966;
+  background: -webkit-linear-gradient(to left, #ff5e62, #ff9966);
+  background: linear-gradient(to left, #ff5e62, #ff9966);
 }
 
 .text-primary {
